@@ -3,7 +3,7 @@
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400"  >
 
 
-<p align="left"> <a href="https://twitter.com/guristyle" target="blank"><img src="https://img.shields.io/twitter/follow/guristyle?logo=twitter&style=for-the-badge" alt="guristyle" /></a> </p>
+
 
 - 🔭 I’m currently working on **Pragmatech and GadimlieStudio**
 
