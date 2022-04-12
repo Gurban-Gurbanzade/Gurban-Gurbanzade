@@ -21,7 +21,7 @@
   <a href="https://twitter.com/guristyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guristyle" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurban gurbanzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurban gurbanzade" height="30" width="40" /></a>
   <a href="https://medium.com/@gurban.gurbanzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurban.gurbanzadeh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gurban_gurbanza1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gurban_gurbanza1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gurban_gurbanza1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gurban_gurbanza1" height="30" width="40" /></a>
   
   
 <h3 align="left">Languages and Tools:</h3>
