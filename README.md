@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurban</h1>
 <h3 align="center">I'm studying to be a FrontEnd Developer</h3>
-<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400"  >
+<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="center" width="400"  >
 
 
 
