@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JS, React, Vue**
+- 💬 Ask me about **JS, React**
 
 - 📫 How to reach me **gurban.gurbanzadeh@gmail.com**
 
