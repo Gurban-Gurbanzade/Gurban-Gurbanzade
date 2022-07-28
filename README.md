@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deirvlon Techlogies**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JS, React**
 
 - 💬 Ask me about **JS, React**
 
