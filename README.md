@@ -3,7 +3,7 @@
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400"  >
 
 
-- 🔭 I’m currently working on **Deirvlon Techlogies**
+- 🔭 I’m currently working on **Code Academy**
 
 - 🌱 I’m currently learning **JS, React**
 
