@@ -43,7 +43,7 @@
 
 <p>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurbangurbanzade&show_icons=true&locale=en&layout=compact&langs_count=10" alt="gurban-gurbanzade" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurbangurbanzade&show_icons=true&locale=en&layout=compact&langs_count=14" alt="gurban-gurbanzade" />
 
 </p>
 
